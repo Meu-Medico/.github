@@ -9,6 +9,23 @@
 
 </div>
 
+  
+#
+  
+<h3> Resumo Técnico </h3>
+  
+>  .Net </br>
+>  C#  </br>
+>  Angukar  </br>
+>  VsCode  </br>
+>  VisualStudio </br>
+
 ### Desenvolvedores
 
 - [@Isabel](https://github.com/souzabel) - [@Inglide](https://github.com/inglide-noberto) - [@Nathassia](https://github.com/NathassiaAlmeida) - [@Rose](https://github.com/RoseAlquino) - [@Vic](https://github.com/vicssb)
+
+
+
+
+
+  
